@@ -2,7 +2,7 @@
 # Site settings
 title: Jesse Blog
 email: qiuzhihui1990@163.com
-description: "修和无人见，存心有天知."
+description: "修和无人见，存心有天知。"
 url: "http://qiuzhihui1990.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
