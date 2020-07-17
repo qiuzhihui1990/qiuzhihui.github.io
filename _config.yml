@@ -1,6 +1,6 @@
 # main text of home
 name: Jesse Qiu
-bio: A Man who travels the world eating noodles
+bio: Do interesting things and be interesting person.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -51,21 +51,15 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: qiuzhihui1990@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    Jesse Qiu:
+        name: JesseQiu
+        bio: Do interesting things and be interesting person.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: JesseQiu
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
