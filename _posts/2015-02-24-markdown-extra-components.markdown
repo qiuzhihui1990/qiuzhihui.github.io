@@ -1,16 +1,17 @@
 ---
-title: "Markdown Extra Components"
+title: "做有趣的事，成为有趣的人"
 layout: post
-date: 2016-02-24 22:48
+date: 2020-07-14 23:45
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
 - components
 - extra
+hidden: true # don't count this post in blog pagination
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: JesseQiu
+description: 做有趣的事，成为有趣的人
 ---
 
 ## Summary:
